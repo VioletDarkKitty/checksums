@@ -1,0 +1,11 @@
+[package]
+name = "checksums"
+version = "0.1.0"
+authors = ["Lily Rivers <lilyrivers48@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hmac-sha256 = "0.1.2"
+hex = "0.3.1"
